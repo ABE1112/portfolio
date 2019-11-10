@@ -152,7 +152,7 @@ class Homepage extends React.Component {
               Abraham
             </t.H1>
             <t.LargeP align="center" max45>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            The professional web developer. Check out my <a href="https://abeblog.netlify.com">Blog</a>
             </t.LargeP>
             <HireMe large onClick={this.openContactPopup} book>
               Hire me

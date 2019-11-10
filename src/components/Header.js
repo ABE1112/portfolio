@@ -262,6 +262,7 @@ class Header extends React.Component {
                   Contact me
                 </HireMe>
               </li>
+        
             </MenuList>
           </HeaderNav>
         </ContentWrapper>
